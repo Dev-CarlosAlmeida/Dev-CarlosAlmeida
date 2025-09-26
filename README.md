@@ -1,5 +1,3 @@
-/html/body/div[1]/div[6]/div/main/turbo-frame/div/div/div/div/div[1]/react-partial/div/div/div[3]/div[2]/div/div[2]/article/div[1]/h2
-
 Hello World! 
 
 🌎 Hi, Seja bem-vindo ao meu GitHub 🚀
