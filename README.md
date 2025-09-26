@@ -1,4 +1,5 @@
 Hello World! 
+<img align="right" width="280" src="https://raw.githubusercontent.com/Dev-CarlosAlmeida/Dev-CarlosAlmeida/main/ilus-code.svg" alt="Imagem código ilustrado" />
 
 🌎 Hi, Seja bem-vindo ao meu GitHub 🚀
 
