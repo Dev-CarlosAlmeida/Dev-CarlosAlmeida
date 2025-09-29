@@ -6,10 +6,11 @@ Hello World!
 ---
 
 ## 🧑‍💻 About Me:
-Sou **Carlos Almeida**, profissional em transição para a área de **Desenvolvimento Web e Programação**.  
-Com mais de 10 anos de experiência em diferentes setores, incluindo **Segurança Privada** e atuação como **ex-militar do Exército Brasileiro**, desenvolvi disciplina, foco e resiliência.  
+Sou **Carlos Almeida**, profissional em transição para a área de Desenvolvimento Web e Programação.
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio, buscando aprofundar meus conhecimentos em programação, desenvolvimento de software e bancos de dados.
+Com mais de 10 anos de experiência em diferentes setores, incluindo Segurança Privada e atuação como ex-militar do Exército Brasileiro, desenvolvi disciplina, foco e resiliência.
 
-Hoje estou **estudando e desenvolvendo projetos em tecnologias modernas**, buscando aplicar conhecimento e ganhar experiência prática para crescer como desenvolvedor.  
+Hoje estou estudando e desenvolvendo projetos em tecnologias modernas, buscando aplicar conhecimento e ganhar experiência prática para crescer como desenvolvedor.
 
 ---
 
