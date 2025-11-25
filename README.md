@@ -16,7 +16,7 @@ Hoje estou estudando e desenvolvendo projetos em tecnologias modernas, buscando 
 
 ## 🎯 About me Motivation
 Acredito que nunca é tarde para aprender algo novo.  
-Estou construindo uma base sólida em **programação, bancos de dados e inteligência artificial**, sempre atento a boas práticas e novas oportunidades de aprendizado.  
+Estou construindo uma base sólida em **programação, inteligência artificial**, sempre atento a boas práticas e novas oportunidades de aprendizado.  
 Cada projeto e linha de código é uma chance de evoluir e contribuir com soluções reais.  
 
 ---
