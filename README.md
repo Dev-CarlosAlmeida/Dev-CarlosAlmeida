@@ -22,7 +22,7 @@ Cada projeto e linha de código é uma chance de evoluir e contribuir com soluç
 ---
 
 ## 🛠 Tech Stack
-<img src="img/Hardskills/HTML.svg" alt="HTML5" /> <img src="img/Hardskills/CSS.svg" lt="CSS3" /> <img src="img/Hardskills/javaScript.svg" alt="JavaScript" /> <img src="img/Hardskills/nodeJS.svg" alt="nodeJS" /> <img src="img/Hardskills/MySQL.svg" alt="MySQL" /> <img src="img/Hardskills/supabase.svg" alt="Supabase" /> <img src="img/Hardskills/git.svg" alt="Git" /> <img src="img/Hardskills/gitHub.svg" alt="GitHub" />  <img src="img/Hardskills/vsCode.svg" alt="vsCode" />   
+<img src=".github/img/Hardskills/HTML.svg" alt="HTML5" /> <img src=".github/img/Hardskills/CSS.svg" lt="CSS3" /> <img src=".github/img/Hardskills/javaScript.svg" alt="JavaScript" /> <img src=".github/img/Hardskills/nodeJS.svg" alt="nodeJS" /> <img src=".github/img/Hardskills/MySQL.svg" alt="MySQL" /> <img src=".github/img/Hardskills/supabase.svg" alt="Supabase" /> <img src=".github/img/Hardskills/git.svg" alt="Git" /> <img src=".github/img/Hardskills/gitHub.svg" alt="GitHub" />  <img src=".github/img/Hardskills/vsCode.svg" alt="vsCode" />   
 
 ---
 
