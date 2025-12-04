@@ -27,7 +27,8 @@ Cada projeto e linha de código é uma chance de evoluir e contribuir com soluç
 ---
 
 ## 🌐 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devcarlosalmeida)
+[<img src=".github/img/linkdin.svg" alt="linkedin" width="50"/>](https://www.linkedin.com/in/devcarlosalmeida)
+
 
 ---
 
