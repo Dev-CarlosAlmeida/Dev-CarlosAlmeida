@@ -1,5 +1,5 @@
-Hello World! 
-<img align="right" width="280" src="https://raw.githubusercontent.com/Dev-CarlosAlmeida/Dev-CarlosAlmeida/main/ilus-code.svg" alt="Imagem código ilustrado" />
+# Hello World! 
+<img align="right" width="280" src="img/ilus-code.svg" alt="Imagem código ilustrado" />
 
 🌎 Hi, Seja bem-vindo ao meu GitHub 🚀
 
@@ -22,15 +22,15 @@ Cada projeto e linha de código é uma chance de evoluir e contribuir com soluç
 ---
 
 ## 🛠 Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Inteligência Artificial](https://img.shields.io/badge/IA-FF6F61?style=for-the-badge&logo=robot&logoColor=white)
+<img src="img/Hardskills/HTML.svg" alt="HTML5" /> 
+<img src="img/Hardskills/CSS.svg" alt="CSS3" />   
+<img src="img/Hardskills/javaScript.svg" alt="JavaScript" />   
+<img src="img/Hardskills/nodeJS.svg" alt="nodeJS" />   
+<img src="img/Hardskills/MySQL.svg" alt="MySQL" />   
+<img src="img/Hardskills/supabase.svg" alt="Supabase" />   
+<img src="img/Hardskills/git.svg" alt="Git" />   
+<img src="img/Hardskills/gitHub.svg" alt="GitHub" />   
+<img src="img/Hardskills/vsCode.svg" alt="vsCode" />   
 
 ---
 
