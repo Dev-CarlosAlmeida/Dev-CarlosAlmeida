@@ -1,5 +1,5 @@
 # Hello World! 
-<img align="right" width="280" src="img/ilus-code.svg" alt="Imagem código ilustrado" />
+<img align="right" width="280" src="ilus-code.svg" alt="Imagem código ilustrado" />
 
 🌎 Hi, Seja bem-vindo ao meu GitHub 🚀
 
