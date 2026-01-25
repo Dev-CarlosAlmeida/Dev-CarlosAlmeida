@@ -6,11 +6,13 @@
 ---
 
 ## 🧑‍💻 About Me:
-Sou **Carlos Almeida**, profissional em transição para a área de Desenvolvedor de Software.
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio, buscando aprofundar meus conhecimentos em programação, desenvolvimento de software.
-Com mais de 10 anos de experiência em diferentes setores, incluindo Segurança Privada e atuação como ex-militar do Exército Brasileiro, desenvolvi disciplina, foco e resiliência.
+Sou **Carlos Almeida**, desenvolvedor de software em transição ativa para a área de tecnologia, com atuação prática como freelancer, e mais de 10 anos de experiência profissional em diferentes setores, incluindo Segurança Privada e atuação como militar do Exército Brasileiro, onde desenvolvi disciplina, foco e resiliência.
 
-Hoje estou estudando e desenvolvendo projetos em tecnologias modernas, buscando aplicar conhecimento e ganhar experiência prática para crescer como desenvolvedor.
+Atualmente, atuo e me aperfeiçoo em tecnologias modernas:
+
+HTML | CSS | JavaScript | Node.js | Git | GitHub | MySQL
+
+Sou curioso, dedicado e motivado, com perfil colaborativo, buscando aprendizado contínuo e contribuir de forma efetiva em equipes de desenvolvimento.
 
 ---
 
