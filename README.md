@@ -6,8 +6,20 @@
 ---
 
 ## 🧑‍💻 About Me:
-Sou **Carlos Almeida**, profissional em transição ativa para a área de desenvolvimento de software, com atuação prática como desenvolvedor freelancer. Paralelamente, atuo na área de Segurança Privada, somando mais de 10 anos de experiência e histórico no Exército Brasileiro. 
-Tenho como diferencial disciplina, organização, responsabilidade e raciocínio analítico, aplicados diretamente no desenvolvimento de soluções tecnológicas. Possuo forte comprometimento com aprendizado contínuo, colaboração em equipe e entrega de resultados consistentes em ambientes estruturados e remotos.
+Sou um desenvolvedor focado em criar sites modernos e de alta performance de forma ágil. Meu diferencial é utilizar o melhor das plataformas Low-code para garantir velocidade na entrega, sem abrir mão da personalização técnica para que cada projeto seja único.
+
+Acredito que um site deve ser muito mais do que beleza; ele precisa ser funcional e estratégico. Por isso, foco em:
+
+Desenvolvimento Ágil: Entrega rápida com foco na necessidade do cliente.
+
+Otimização de SEO: Configurações técnicas para que o site seja bem ranqueado nas buscas.
+
+Experiência do Usuário (UI): Interfaces limpas e profissionais que transmitem confiança.
+
+Suporte Completo: Do planejamento inicial à publicação e suporte técnico.
+
+Trabalho de forma independente, garantindo que todo o processo — do design à parte técnica — seja executado com qualidade e atenção aos detalhes.
+
 
 ---
 
