@@ -32,26 +32,17 @@ Cada projeto e linha de código é uma chance de evoluir e contribuir com soluç
 
 ## 🛠 Tech Stack
 <p align="left">
-  <img src=".github/img/Hardskills/html5.svg" alt="HTML5" height="20" />&nbsp;
-  <img src=".github/img/Hardskills/css.svg" alt="CSS3" height="20" />&nbsp;
-  <img src=".github/img/Hardskills/js.svg" alt="JavaScript" height="20" />&nbsp;
-  <img src=".github/img/Hardskills/node.svg" alt="NodeJS" height="20" />&nbsp;
-  <img src=".github/img/Hardskills/py.svg" alt="Python" height="20" />&nbsp;
-  <img src=".github/img/Hardskills/mysql.svg" alt="MySQL" height="20" />&nbsp;
-  <img src=".github/img/Hardskills/supabase.svg" alt="Supabase" height="20" />&nbsp;
-  <img src=".github/img/Hardskills/n8n.svg" alt="n8n" height="20" />&nbsp;
-  <img src=".github/img/Hardskills/git.svg" alt="Git" height="20" />&nbsp;
-  <img src=".github/img/Hardskills/github.svg" alt="GitHub" height="20" />
+  <img src="https://img.shields.io/badge/-HTML5-05122a?style=flat&logo=html5" alt="HTML5" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/-CSS3-05122a?style=flat&logo=css3" alt="CSS3" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-05122a?style=flat&logo=javascript" alt="JavaScript" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/-Node.js-05122a?style=flat&logo=node.js" alt="NodeJS" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/-Python-05122a?style=flat&logo=python" alt="Python" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/-MySQL-05122a?style=flat&logo=mysql" alt="MySQL" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/-Supabase-05122a?style=flat&logo=supabase" alt="Supabase" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/-n8n-05122a?style=flat&logo=n8n" alt="n8n" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/-Git-05122a?style=flat&logo=git" alt="Git" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub-05122a?style=flat&logo=github" alt="GitHub" height="25" />
 </p>
-
----
-
-## 🌐 Contato
-<div align="left">
-  <a href="https://www.linkedin.com/in/devcarlosalmeida" target="_blank">
-    <img src=".github/img/linkedin.svg" alt="linkedin" width="20"/>
-  </a>
-</div>
 
 ---
 
