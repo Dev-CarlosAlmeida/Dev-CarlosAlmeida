@@ -10,13 +10,13 @@ Sou um desenvolvedor focado em criar sites modernos e de alta performance de for
 
 Acredito que um site deve ser muito mais do que beleza; ele precisa ser funcional e estratégico. Por isso, foco em:
 
-Desenvolvimento Ágil: Entrega rápida com foco na necessidade do cliente.
+**Desenvolvimento Ágil:** Entrega rápida com foco na necessidade do cliente.
 
-Otimização de SEO: Configurações técnicas para que o site seja bem ranqueado nas buscas.
+**Otimização de SEO:** Configurações técnicas para que o site seja bem ranqueado nas buscas.
 
-Experiência do Usuário (UI): Interfaces limpas e profissionais que transmitem confiança.
+**Experiência do Usuário (UI):** Interfaces limpas e profissionais que transmitem confiança.
 
-Suporte Completo: Do planejamento inicial à publicação e suporte técnico.
+**Suporte Completo:** Do planejamento inicial à publicação e suporte técnico.
 
 Trabalho de forma independente, garantindo que todo o processo — do design à parte técnica — seja executado com qualidade e atenção aos detalhes.
 
@@ -49,7 +49,7 @@ Cada projeto e linha de código é uma chance de evoluir e contribuir com soluç
 ## 🌐 Contato
 <div align="left">
   <a href="https://www.linkedin.com/in/devcarlosalmeida" target="_blank">
-    <img src=".github/img/linkdin.svg" alt="linkedin" width="20"/>
+    <img src=".github/img/linkedin.svg" alt="linkedin" width="20"/>
   </a>
 </div>
 
