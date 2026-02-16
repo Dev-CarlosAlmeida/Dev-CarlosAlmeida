@@ -31,13 +31,27 @@ Cada projeto e linha de código é uma chance de evoluir e contribuir com soluç
 ---
 
 ## 🛠 Tech Stack
-<img src=".github/img/Hardskills/HTML.svg" alt="HTML5" /> <img src=".github/img/Hardskills/CSS.svg" lt="CSS3" /> <img src=".github/img/Hardskills/javaScript.svg" alt="JavaScript" /> <img src=".github/img/python.svg" alt="python" /> <img src=".github/img/C.svg" alt="C" /> <img src=".github/img/Hardskills/nodeJS.svg" alt="nodeJS" /> <img src=".github/img/Hardskills/MySQL.svg" alt="MySQL" /> <img src=".github/img/Hardskills/supabase.svg" alt="Supabase" /> <img src=".github/img/Hardskills/git.svg" alt="Git" /> <img src=".github/img/Hardskills/gitHub.svg" alt="GitHub" />  <img src=".github/img/Hardskills/vsCode.svg" alt="vsCode" />   
+<p align="left">
+  <img src=".github/img/Hardskills/html5.svg" alt="HTML5" height="20" />&nbsp;
+  <img src=".github/img/Hardskills/css.svg" alt="CSS3" height="20" />&nbsp;
+  <img src=".github/img/Hardskills/js.svg" alt="JavaScript" height="20" />&nbsp;
+  <img src=".github/img/Hardskills/node.svg" alt="NodeJS" height="20" />&nbsp;
+  <img src=".github/img/Hardskills/py.svg" alt="Python" height="20" />&nbsp;
+  <img src=".github/img/Hardskills/mysql.svg" alt="MySQL" height="20" />&nbsp;
+  <img src=".github/img/Hardskills/supabase.svg" alt="Supabase" height="20" />&nbsp;
+  <img src=".github/img/Hardskills/n8n.svg" alt="n8n" height="20" />&nbsp;
+  <img src=".github/img/Hardskills/git.svg" alt="Git" height="20" />&nbsp;
+  <img src=".github/img/Hardskills/github.svg" alt="GitHub" height="20" />
+</p>
 
 ---
 
 ## 🌐 Contato
-[<img src=".github/img/linkdin.svg" alt="linkedin" width="50"/>](https://www.linkedin.com/in/devcarlosalmeida)
-
+<div align="left">
+  <a href="https://www.linkedin.com/in/devcarlosalmeida" target="_blank">
+    <img src=".github/img/linkdin.svg" alt="linkedin" width="20"/>
+  </a>
+</div>
 
 ---
 
