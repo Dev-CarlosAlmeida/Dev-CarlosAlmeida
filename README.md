@@ -25,7 +25,7 @@ Cada projeto e linha de código é uma chance de evoluir e contribuir com soluç
   <img src="https://img.shields.io/badge/-CSS3-05122a?style=flat&logo=css3" alt="CSS3" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-05122a?style=flat&logo=javascript" alt="JavaScript" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/-Node.js-05122a?style=flat&logo=node.js" alt="NodeJS" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/-react-05122a?style=flat&logo=node.js" alt="react" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/-react-05122a?style=flat&logo=react" alt="react" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/-Python-05122a?style=flat&logo=python" alt="Python" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/-MySQL-05122a?style=flat&logo=mysql" alt="MySQL" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/-Supabase-05122a?style=flat&logo=supabase" alt="Supabase" height="25" />&nbsp;
