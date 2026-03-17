@@ -6,9 +6,18 @@
 ---
 
 ## 🧑‍💻 About Me:
- Desenvolvedor Web e Desenvolvedor Full Stack com experiência em desenvolvimento de aplicações web utilizando JavaScript, React e Node.js. Atuação com desenvolvimento low-code integrado a backend customizado, automações e integrações via API REST. 
- Experiência no ciclo completo de desenvolvimento de software: levantamento de requisitos, modelagem de banco de dados, implementação, versionamento com Git, deploy e suporte. Foco em performance web, responsividade, SEO técnico, Core Web Vitals e boas práticas de desenvolvimento.
+Atualmente curso Análise e Desenvolvimento de Sistemas e busco minha primeira oportunidade de estágio. 
+Minha trajetória é marcada por 7 anos de experiência no Exército Brasileiro e atuação no setor de segurança. Essa bagagem me proporcionou 
+extrema disciplina, resiliência e facilidade em trabalhar em equipe, competências que aplico hoje em minha formação acadêmica. 
+Minha atuação atual: 
 
+-  Foco no aprendizado de lógica e fundamentos de TI. 
+-  Colaboração pontual como freelancer auxiliar na Code Heroes, apoiando a estrutura e publicação de páginas web com o suporte de 
+ferramentas de automação. 
+-  Grande disposição para aprender processos e evoluir tecnicamente. 
+
+Sou um profissional maduro, comprometido com horários e processos, buscando um ambiente onde eu possa contribuir com minha dedicação e 
+aprender com profissionais experientes. 
 
 ---
 
