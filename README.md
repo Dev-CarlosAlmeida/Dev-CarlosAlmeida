@@ -6,25 +6,24 @@
 ---
 
 ## 🧑‍💻 About Me:
-Atualmente curso Análise e Desenvolvimento de Sistemas e busco minha primeira oportunidade de estágio. 
-Minha trajetória é marcada por 7 anos de experiência no Exército Brasileiro e atuação no setor de segurança. Essa bagagem me proporcionou 
-extrema disciplina, resiliência e facilidade em trabalhar em equipe, competências que aplico hoje em minha formação acadêmica. 
-Minha atuação atual: 
+Sou estudante de Análise e Desenvolvimento de Sistemas (Estácio) e atuo como Desenvolvedor Front-end Freelancer.
+Trago uma bagagem de 7 anos no Exército Brasileiro, uma trajetória que me proporcionou extrema disciplina, resiliência e facilidade em trabalhar em equipa, competências que aplico hoje no desenvolvimento de software.
+A minha atuação atual:
 
--  Foco no aprendizado de lógica e fundamentos de TI. 
--  Colaboração pontual como freelancer auxiliar na Code Heroes, apoiando a estrutura e publicação de páginas web com o suporte de 
-ferramentas de automação. 
--  Grande disposição para aprender processos e evoluir tecnicamente. 
+-  Foco na construção de soluções reais com React, HTML e CSS, unindo o desenvolvimento assistido por IA (Cursor, Copilot, Lovable) para garantir agilidade e qualidade.
 
-Sou um profissional maduro, comprometido com horários e processos, buscando um ambiente onde eu possa contribuir com minha dedicação e 
-aprender com profissionais experientes. 
+-  Entrega de projetos como freelancer, incluindo Web Apps ("Procure seu Pet"), sistemas de gestão Pro Bono e Landing Pages dinâmicas para negócios locais.
+
+-  Grande disposição para aprender processos e evoluir tecnicamente.
+
+-  Sou um profissional maduro, comprometido com prazos e processos, à procura de uma oportunidade formal em tecnologia (CLT ou PJ) onde possa trabalhar arduamente e aprender com equipas experientes.
 
 ---
 
 ## 🎯 About me Motivation
-Acredito que nunca é tarde para aprender algo novo.  
-Estou construindo uma base sólida, sempre atento a boas práticas e novas oportunidades de aprendizado.  
-Cada projeto e linha de código é uma chance de evoluir e contribuir com soluções reais.  
+Acredito que nunca é tarde para aprender algo novo e que a tecnologia é a melhor ferramenta para resolver problemas.
+Estou a construir uma base sólida, sempre atento a boas práticas e novas oportunidades de aprendizagem.
+Cada projeto, seja como freelancer ou um estudo, é uma oportunidade de evoluir e entregar valor através do código.
 
 ---
 
@@ -46,5 +45,5 @@ Cada projeto e linha de código é uma chance de evoluir e contribuir com soluç
 
 ---
 
-🚀 **Sempre aberto a aprender e participar de projetos reais, criando soluções e evoluindo como desenvolvedor!** 🚀
+🚀 **Sempre aberto a novos desafios, networking e a transformar boas ideias em código!** 🚀
 
